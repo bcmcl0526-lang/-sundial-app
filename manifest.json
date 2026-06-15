@@ -1,0 +1,16 @@
+{
+  "name": "SunDial - Tan Tracker",
+  "short_name": "SunDial",
+  "description": "Know exactly when conditions are right to tan, rated 1-10.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2b1b34",
+  "theme_color": "#2b1b34",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
